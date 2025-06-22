@@ -32,7 +32,7 @@ Esta ferramenta em Excel foi criada para ajudar investidores a simular e visuali
 4.  A tabela e o gráfico serão atualizados automaticamente com a sua simulação!
 
 ## 📸 Imagem
-![Exemplo da planilha de investimento](https://github.com/user-attachments/assets/b9778d75-97c9-4c0a-adcf-21aba93ae89f)
+![planilha de investimento](https://github.com/user-attachments/assets/b9778d75-97c9-4c0a-adcf-21aba93ae89f)
 
 ## ✍️ Autor
 
